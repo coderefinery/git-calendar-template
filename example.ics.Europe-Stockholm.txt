@@ -1,0 +1,22 @@
+
+
+----------
+Subject:  Test event
+Start:    Thursday, 30 September 2021, 11:00 CEST
+Location: https://meet.jit.si/example
+Description:
+
+Line1
+Line2
+https://scicomp.aalto.fi
+
+
+----------
+Subject:  Test recurring event
+Start:    Wednesday, 02 February 2022, 11:00 CET
+Location: https://meet.jit.si/example
+Description:
+
+Line1
+Line2
+https://scicomp.aalto.fi
